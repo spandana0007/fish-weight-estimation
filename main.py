@@ -54,7 +54,7 @@ def predicting_application():
 
 def visuals():
     """provide visuals and model accuracy data."""
-    wgt_pred = lin_reg_model.predict(len_test)
+    predicted_weight_value = lin_reg_model.predict(len_test)
 
     # r-squared value
     pred_accuracy = metrics.r2_score(wgt_test, wgt_pred)
