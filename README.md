@@ -23,4 +23,4 @@ Refer to the "User Guide" in [Task 2 Writeup](/task_2_documentation.docx).
 * Python 3.11.3 (64-bit)
 
 ## Details:
-* Author: Austin Kim
+* Author: Spandana
