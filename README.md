@@ -25,6 +25,8 @@ Refer to the "User Guide" in [Task 2 Writeup](/task_2_documentation.docx).
 * Kaggle Dataset: [fish_data_raw.csv](/fish_data_raw.csv) OR [link](https://www.kaggle.com/datasets/aungpyaeap/fish-market) to Kaggle download
 * PyCharm Community Edition 2022.2.3
 * Python 3.11.3 (64-bit)
-
+## Conclusion
+This project helped me understand the basics of machine learning and how prediction models work.  
+I learned how to train and test a regression model using real-world data.
 ## Details:
 * Author: Spandana
